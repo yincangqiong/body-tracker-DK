@@ -14,3 +14,5 @@ opencv_ffmpeg3410_64.dll、opencv_world3410.dll、opencv_world3410d.dll
 5、将opencv2的文件夹放到该工程目录中
 
 6、IDE使用VS 2019,X64-debug运行即可
+
+7、action-detection.cpp检测了几种瑜伽动作
